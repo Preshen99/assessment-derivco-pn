@@ -2,6 +2,8 @@
 
 <h3>NPM Install</h3>
 
+<p>https://www.npmjs.com/package/assessment-derivco-pn</p>
+
 ```
 npm i prompt-sync
 npm i path
