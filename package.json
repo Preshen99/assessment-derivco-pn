@@ -1,8 +1,8 @@
 {
   "publishConfig": {
-    "@preshen99:registry": "https://registry.npmjs.org/"
+    "@preshen99:registry": "https://registry.npmjs.org"
   },
-  "name": "@preshen99/assessment-derivco-pn",
+  "name": "assessment-derivco-pn",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
