@@ -1,0 +1,19 @@
+{
+  "name": "@preshen99/assessment-derivco-pn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Preshen99/assessment-derivco-pn.git"
+  },
+  "author": "Preshen Naidoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Preshen99/assessment-derivco-pn/issues"
+  },
+  "homepage": "https://github.com/Preshen99/assessment-derivco-pn#readme"
+}
