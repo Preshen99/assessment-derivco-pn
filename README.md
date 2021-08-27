@@ -24,7 +24,11 @@ LogResults();
 git clone https://github.com/Preshen99/assessment-derivco-pn.git
 
 cd assessment-derivco-pn
+```
 
+<h3>Run the application</h3>
+
+```
 node ./app.js
 -------or-------
 npm start
