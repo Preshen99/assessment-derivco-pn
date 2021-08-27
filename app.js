@@ -543,4 +543,4 @@ function LogResults() {
 //SortData();
 LogResults();
 
-module.export = LogResults;
+module.exports = {LogResults};
