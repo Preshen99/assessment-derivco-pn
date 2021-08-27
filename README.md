@@ -6,7 +6,7 @@
 npm i prompt-sync
 npm i path
 npm i fs
-npm i assessment-derivco-pn --save
+npm i assessment-derivco-pn
 ```
 
 <h3>Then...</h3>
