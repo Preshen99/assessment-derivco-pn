@@ -1,0 +1,147 @@
+ERROR: Please enter the correct option! 
+Option Selected: woiwhevfoihwovihweqvERROR: Please enter the correct option! 
+Option Selected: woivehnwpohevopERROR: Please enter the correct option! 
+Option Selected: qwopiefvpwoejfvERROR: only letters to be used in names! 
+Male: false	Female: true
+
+Function - InputNames() 
+
+Names to be used: Preshen, Naidoo 
+
+Names converted to string for characters counting:
+preshenmatchesnaidoo
+
+Counting of characters takes place now...
+Duplicate count: 2 	Position of Duplicate: 5 
+Duplicate count: 3 	Position of Duplicate: 12 
+Duplicate count: 2 	Position of Duplicate: 13 
+Duplicate count: 2 	Position of Duplicate: 11 
+Duplicate count: 2 	Position of Duplicate: 12 
+Duplicate count: 2 	Position of Duplicate: 14 
+Duplicate count: 2 	Position of Duplicate: 15 
+Duplicate count: 2 	Position of Duplicate: 19 
+
+Duplicate position before splicing: 19,15,14,13,12,12,11,5 
+Duplicate position after splicing: 19,15,14,13,12,11,5 
+
+Character count before splicing: 1,1,3,2,2,2,2,1,2,1,1,1,1,1,1,1,1,1,2,1 
+Character count after splicing: 1,1,3,2,2,2,1,2,1,1,1,1,2
+
+Function - InputNames() 
+
+Names to be used: Preshen, Naidoo 
+
+Names converted to string for characters counting:
+preshenmatchesnaidoo
+
+Counting of characters takes place now...
+Duplicate count: 2 	Position of Duplicate: 5 
+Duplicate count: 3 	Position of Duplicate: 12 
+Duplicate count: 2 	Position of Duplicate: 13 
+Duplicate count: 2 	Position of Duplicate: 11 
+Duplicate count: 2 	Position of Duplicate: 12 
+Duplicate count: 2 	Position of Duplicate: 14 
+Duplicate count: 2 	Position of Duplicate: 15 
+Duplicate count: 2 	Position of Duplicate: 19 
+
+Duplicate position before splicing: 19,15,14,13,12,12,11,5 
+Duplicate position after splicing: 19,15,14,13,12,11,5 
+
+Character count before splicing: 1,1,3,2,2,2,2,1,2,1,1,1,1,1,1,1,1,1,2,1 
+Character count after splicing: 1,1,3,2,2,2,1,2,1,1,1,1,2
+Character count value used in the calculation of matching percentage:
+1,1,3,2,2,2,1,2,1,1,1,1,2
+
+
+Temporary Array Y - TOP OF LOOP:
+1,1,3,2,2,2,1,2,1,1,1,1,2
+Temporary Array Y:
+1,1,3,2,2,2,1,2,1,1,1,1,2
+Temporary Array Z:
+3
+Temporary Array Y:
+1,3,2,2,2,1,2,1,1,1,1
+Temporary Array Y:
+1,3,2,2,2,1,2,1,1,1,1
+Temporary Array Z:
+3,2
+Temporary Array Y:
+3,2,2,2,1,2,1,1,1
+Temporary Array Y:
+3,2,2,2,1,2,1,1,1
+Temporary Array Z:
+3,2,4
+Temporary Array Y:
+2,2,2,1,2,1,1
+Temporary Array Y:
+2,2,2,1,2,1,1
+Temporary Array Z:
+3,2,4,3
+Temporary Array Y:
+2,2,1,2,1
+Temporary Array Y:
+2,2,1,2,1
+Temporary Array Z:
+3,2,4,3,3
+Temporary Array Y:
+2,1,2
+Temporary Array Y:
+2,1,2
+Temporary Array Z:
+3,2,4,3,3,4
+Temporary Array Y:
+1
+
+
+Temporary Array Y - TOP OF LOOP:
+3,2,4,3,3,4,1
+Temporary Array Y:
+3,2,4,3,3,4,1
+Temporary Array Z:
+4
+Temporary Array Y:
+2,4,3,3,4
+Temporary Array Y:
+2,4,3,3,4
+Temporary Array Z:
+4,6
+Temporary Array Y:
+4,3,3
+Temporary Array Y:
+4,3,3
+Temporary Array Z:
+4,6,7
+Temporary Array Y:
+3
+
+
+Temporary Array Y - TOP OF LOOP:
+4,6,7,3
+Temporary Array Y:
+4,6,7,3
+Temporary Array Z:
+7
+Temporary Array Y:
+6,7
+Temporary Array Y:
+6,7
+Temporary Array Z:
+7,13
+Temporary Array Y:
+
+
+
+Temporary Array Y - TOP OF LOOP:
+7,13
+Temporary Array Y:
+7
+Temporary Array Y:
+7,7
+Temporary Array Y:
+7,7
+Temporary Array Z:
+14
+Temporary Array Y:
+
+
+Final Match Percentage: 67

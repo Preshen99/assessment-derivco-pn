@@ -516,6 +516,7 @@ function LogResults() {
 
     let date = Date.now();
     let txtname = path.join('./log/csvlog-' + date + '.txt');
+    //let txtname = path.join('./log/output.txt');
     let txtname1 = path.join('./log/inputlog-' + date + '.txt');
 
     if (matchObject.male.length > 2) {

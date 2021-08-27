@@ -1,0 +1,142 @@
+ERROR: Please enter the correct option! 
+Option Selected: ldqwnblenbebopiERROR: Please enter the correct option! 
+Option Selected: [wvpERROR: Please enter the correct option! 
+Option Selected: pwoev034tERROR: Please enter the correct option! 
+Option Selected: 544543ERROR: Please enter the correct option! 
+Option Selected: werjkoeb
+
+Function - InputNames() 
+
+Names to be used: tristan, amelia 
+
+Names converted to string for characters counting:
+tristanmatchesamelia
+
+Counting of characters takes place now...
+Duplicate count: 2 	Position of Duplicate: 4 
+Duplicate count: 3 	Position of Duplicate: 9 
+Duplicate count: 2 	Position of Duplicate: 18 
+Duplicate count: 2 	Position of Duplicate: 13 
+Duplicate count: 2 	Position of Duplicate: 9 
+Duplicate count: 2 	Position of Duplicate: 8 
+Duplicate count: 3 	Position of Duplicate: 14 
+Duplicate count: 4 	Position of Duplicate: 19 
+Duplicate count: 2 	Position of Duplicate: 15 
+Duplicate count: 2 	Position of Duplicate: 14 
+Duplicate count: 3 	Position of Duplicate: 19 
+Duplicate count: 2 	Position of Duplicate: 16 
+Duplicate count: 2 	Position of Duplicate: 19 
+
+Duplicate position before splicing: 19,19,19,18,16,15,14,14,13,9,9,8,4 
+Duplicate position after splicing: 19,18,16,15,14,13,9,8,4 
+
+Character count before splicing: 3,1,2,2,2,4,1,2,3,1,1,1,2,1,2,1,1,1,1,1 
+Character count after splicing: 3,1,2,2,4,1,2,1,1,2,1
+Character count value used in the calculation of matching percentage:
+3,1,2,2,4,1,2,1,1,2,1
+
+
+Temporary Array Y - TOP OF LOOP:
+3,1,2,2,4,1,2,1,1,2,1
+Temporary Array Y:
+3,1,2,2,4,1,2,1,1,2,1
+Temporary Array Z:
+4
+Temporary Array Y:
+1,2,2,4,1,2,1,1,2
+Temporary Array Y:
+1,2,2,4,1,2,1,1,2
+Temporary Array Z:
+4,3
+Temporary Array Y:
+2,2,4,1,2,1,1
+Temporary Array Y:
+2,2,4,1,2,1,1
+Temporary Array Z:
+4,3,3
+Temporary Array Y:
+2,4,1,2,1
+Temporary Array Y:
+2,4,1,2,1
+Temporary Array Z:
+4,3,3,3
+Temporary Array Y:
+4,1,2
+Temporary Array Y:
+4,1,2
+Temporary Array Z:
+4,3,3,3,6
+Temporary Array Y:
+1
+
+
+Temporary Array Y - TOP OF LOOP:
+4,3,3,3,6,1
+Temporary Array Y:
+4,3,3,3,6,1
+Temporary Array Z:
+5
+Temporary Array Y:
+3,3,3,6
+Temporary Array Y:
+3,3,3,6
+Temporary Array Z:
+5,9
+Temporary Array Y:
+3,3
+Temporary Array Y:
+3,3
+Temporary Array Z:
+5,9,6
+Temporary Array Y:
+
+
+
+Temporary Array Y - TOP OF LOOP:
+5,9,6
+Temporary Array Y:
+5,9,6
+Temporary Array Z:
+11
+Temporary Array Y:
+9
+
+
+Temporary Array Y - TOP OF LOOP:
+11,9
+Temporary Array Y:
+1,1
+Temporary Array Y:
+9,1,1
+Temporary Array Y:
+9,1,1
+Temporary Array Z:
+10
+Temporary Array Y:
+1
+
+
+Temporary Array Y - TOP OF LOOP:
+10,1
+Temporary Array Y:
+1,0
+Temporary Array Y:
+1,0,1
+Temporary Array Y:
+1,0,1
+Temporary Array Z:
+2
+Temporary Array Y:
+0
+
+
+Temporary Array Y - TOP OF LOOP:
+2,0
+Temporary Array Y:
+2,0
+Temporary Array Z:
+2
+Temporary Array Y:
+
+
+Final Match Percentage: 20
