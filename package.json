@@ -1,4 +1,7 @@
 {
+  "publishConfig": {
+    "@preshen99:registry": "https://npm.pkg.github.com"
+  },
   "name": "@preshen99/assessment-derivco-pn",
   "version": "1.0.0",
   "description": "",
