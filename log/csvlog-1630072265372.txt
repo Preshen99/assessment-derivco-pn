@@ -1,0 +1,516 @@
+ERROR: Please enter the correct option! 
+Option Selected: oifgoihweqgERROR: Please enter the correct option! 
+Option Selected: woefhowiqehf--------------------------------CSV File Format Chosen---------------------------------------
+
+ERROR: Please enter the correct File Name! 
+File Name: eoihiopeh.csv 
+ERROR: Please enter the correct File Name! 
+File Name: woeifhwiehf.csv 
+
+CSV Input Log: 
+ CSV File used: test.csv 
+
+File is being verified... 
+
+Data is converted: 
+﻿Jack,M,Jean,F,Molly,F,Kate,F,Ted,M,Tommy,M
+
+
+
+--------------------Data Converted To Arrays------------------------
+Male users array before splicing: 
+﻿Jack,Ted,Tommy
+
+Female users array before splicing: 
+Jean,Molly,Kate
+
+Male users array after splicing: 
+Jack,Ted,Tommy
+
+Female users array after splicing: 
+Jean,Molly,Kate
+
+
+
+--------------------Splicing Arrays------------------------
+Duplicate count: 2 	Position of Duplicate: 11 
+Duplicate count: 2 	Position of Duplicate: 5 
+Duplicate count: 3 	Position of Duplicate: 13 
+Duplicate count: 2 	Position of Duplicate: 7 
+Duplicate count: 2 	Position of Duplicate: 13 
+Duplicate count: 2 	Position of Duplicate: 12 
+
+Duplicate position before splicing: 13,13,12,11,7,5 
+Duplicate position after splicing: 13,12,11,7,5 
+
+Character count before splicing: 2,3,2,1,1,2,1,1,1,2,1,1,1,1,1 
+Character count after splicing: 2,3,2,1,1,1,1,2,1,1
+Duplicate count: 2 	Position of Duplicate: 5 
+Duplicate count: 2 	Position of Duplicate: 7 
+Duplicate count: 2 	Position of Duplicate: 11 
+Duplicate count: 2 	Position of Duplicate: 14 
+
+Duplicate position before splicing: 14,11,7,7,5,5 
+Duplicate position after splicing: 14,11,7,5 
+
+Character count before splicing: 1,2,2,1,2,1,1,1,1,1,1,1,1,2,1,1 
+Character count after splicing: 1,2,2,1,2,1,1,1,1,1,2,1
+Duplicate count: 2 	Position of Duplicate: 5 
+Duplicate count: 3 	Position of Duplicate: 12 
+Duplicate count: 2 	Position of Duplicate: 7 
+Duplicate count: 2 	Position of Duplicate: 11 
+Duplicate count: 2 	Position of Duplicate: 12 
+Duplicate count: 2 	Position of Duplicate: 13 
+Duplicate count: 2 	Position of Duplicate: 14 
+
+Duplicate position before splicing: 14,13,12,12,11,7,5 
+Duplicate position after splicing: 14,13,12,11,7,5 
+
+Character count before splicing: 1,3,2,2,1,2,2,1,1,2,1,1,1,1,1 
+Character count after splicing: 1,3,2,2,1,2,1,2,1
+Duplicate count: 2 	Position of Duplicate: 5 
+Duplicate count: 2 	Position of Duplicate: 8 
+Duplicate count: 3 	Position of Duplicate: 11 
+Duplicate count: 2 	Position of Duplicate: 12 
+Duplicate count: 2 	Position of Duplicate: 11 
+
+Duplicate position before splicing: 12,11,11,8,7,5,5 
+Duplicate position after splicing: 12,11,8,7,5 
+
+Character count before splicing: 2,3,1,1,2,1,1,1,2,1,1,1,1,1 
+Character count after splicing: 2,3,1,1,2,1,1,1,1
+Duplicate count: 2 	Position of Duplicate: 5 
+Duplicate count: 2 	Position of Duplicate: 8 
+Duplicate count: 2 	Position of Duplicate: 10 
+Duplicate count: 2 	Position of Duplicate: 13 
+
+Duplicate position before splicing: 13,10,8,7,5,5,5 
+Duplicate position after splicing: 13,10,8,7,5 
+
+Character count before splicing: 2,2,1,2,1,1,1,1,1,1,1,1,2,1,1 
+Character count after splicing: 2,2,1,2,1,1,1,1,2,1
+Duplicate count: 2 	Position of Duplicate: 5 
+Duplicate count: 3 	Position of Duplicate: 12 
+Duplicate count: 2 	Position of Duplicate: 8 
+Duplicate count: 3 	Position of Duplicate: 13 
+Duplicate count: 2 	Position of Duplicate: 11 
+Duplicate count: 2 	Position of Duplicate: 12 
+Duplicate count: 2 	Position of Duplicate: 13 
+
+Duplicate position before splicing: 13,13,12,12,11,8,5 
+Duplicate position after splicing: 13,12,11,8,5 
+
+Character count before splicing: 3,3,1,1,2,2,1,1,2,1,1,1,1,1 
+Character count after splicing: 3,3,1,1,2,1,1,1,1
+Duplicate count: 2 	Position of Duplicate: 7 
+Duplicate count: 2 	Position of Duplicate: 3 
+Duplicate count: 3 	Position of Duplicate: 5 
+Duplicate count: 2 	Position of Duplicate: 5 
+Duplicate count: 2 	Position of Duplicate: 14 
+Duplicate count: 2 	Position of Duplicate: 13 
+
+Duplicate position before splicing: 14,13,7,5,5,5,3 
+Duplicate position after splicing: 14,13,7,5,3 
+
+Character count before splicing: 2,1,3,2,1,1,2,1,1,1,2,1,1,1,1,1 
+Character count after splicing: 2,1,3,1,2,1,1,2,1,1,1
+Duplicate count: 2 	Position of Duplicate: 7 
+Duplicate count: 2 	Position of Duplicate: 13 
+Duplicate count: 2 	Position of Duplicate: 3 
+Duplicate count: 3 	Position of Duplicate: 5 
+Duplicate count: 4 	Position of Duplicate: 12 
+Duplicate count: 2 	Position of Duplicate: 5 
+Duplicate count: 3 	Position of Duplicate: 12 
+Duplicate count: 2 	Position of Duplicate: 16 
+Duplicate count: 2 	Position of Duplicate: 12 
+Duplicate count: 2 	Position of Duplicate: 15 
+
+Duplicate position before splicing: 16,15,13,12,12,12,7,5,5,3 
+Duplicate position after splicing: 16,15,13,12,7,5,3 
+
+Character count before splicing: 2,2,4,3,2,2,1,1,1,1,1,1,1,1,2,1,1 
+Character count after splicing: 2,2,4,2,1,1,1,1,1,2
+Duplicate count: 2 	Position of Duplicate: 7 
+Duplicate count: 3 	Position of Duplicate: 14 
+Duplicate count: 2 	Position of Duplicate: 3 
+Duplicate count: 3 	Position of Duplicate: 5 
+Duplicate count: 2 	Position of Duplicate: 5 
+Duplicate count: 2 	Position of Duplicate: 13 
+Duplicate count: 2 	Position of Duplicate: 14 
+Duplicate count: 2 	Position of Duplicate: 15 
+
+Duplicate position before splicing: 15,14,14,13,7,5,5,5,3,3 
+Duplicate position after splicing: 15,14,13,7,5,3 
+
+Character count before splicing: 3,1,3,2,1,1,2,2,1,1,2,1,1,1,1,1 
+Character count after splicing: 3,1,3,1,2,1,1,2,1,1
+
+
+--------------------Calculation for Array Item: 0------------------------
+
+
+Temporary Array Y: 
+2,3,2,1,1,1,1,2,1,1
+Temporary Array x - TOP: 
+2,3,2,1,1,1,1,2,1,1
+Temporary Array Y - TOP: 
+2,3,2,1,1,1,1,2,1,1
+
+Temporary Array x - TOP: 
+3,4,4,2,2
+Temporary Array Y - TOP: 
+3,4,4,2,2
+
+Temporary Array x - TOP: 
+5,6,4
+Temporary Array Y - TOP: 
+5,6,4
+
+Temporary Array x - TOP: 
+9,6
+Temporary Array Y - TOP: 
+9,6
+
+
+Final Match Percentage: 96
+
+
+
+--------------------Calculation for Array Item: 1------------------------
+
+
+Temporary Array Y: 
+1,2,2,1,2,1,1,1,1,1,2,1
+Temporary Array x - TOP: 
+1,2,2,1,2,1,1,1,1,1,2,1
+Temporary Array Y - TOP: 
+1,2,2,1,2,1,1,1,1,1,2,1
+
+Temporary Array x - TOP: 
+2,4,3,2,3,2
+Temporary Array Y - TOP: 
+2,4,3,2,3,2
+
+Temporary Array x - TOP: 
+4,7,5
+Temporary Array Y - TOP: 
+4,7,5
+
+Temporary Array x - TOP: 
+9,7
+Temporary Array Y - TOP: 
+9,7
+
+
+Final Match Percentage: 97
+
+
+
+--------------------Calculation for Array Item: 2------------------------
+
+
+Temporary Array Y: 
+1,3,2,2,1,2,1,2,1
+Temporary Array x - TOP: 
+1,3,2,2,1,2,1,2,1
+Temporary Array Y - TOP: 
+1,3,2,2,1,2,1,2,1
+
+Temporary Array x - TOP: 
+2,5,3,4,1
+Temporary Array Y - TOP: 
+2,5,3,4,1
+
+Temporary Array x - TOP: 
+3,9,3
+Temporary Array Y - TOP: 
+3,9,3
+
+Temporary Array x - TOP: 
+6,9
+Temporary Array Y - TOP: 
+6,9
+
+
+Final Match Percentage: 69
+
+
+
+--------------------Calculation for Array Item: 3------------------------
+
+
+Temporary Array Y: 
+2,3,1,1,2,1,1,1,1
+Temporary Array x - TOP: 
+2,3,1,1,2,1,1,1,1
+Temporary Array Y - TOP: 
+2,3,1,1,2,1,1,1,1
+
+Temporary Array x - TOP: 
+3,4,2,2,2
+Temporary Array Y - TOP: 
+3,4,2,2,2
+
+Temporary Array x - TOP: 
+5,6,2
+Temporary Array Y - TOP: 
+5,6,2
+
+Temporary Array x - TOP: 
+7,6
+Temporary Array Y - TOP: 
+7,6
+
+
+Final Match Percentage: 76
+
+
+
+--------------------Calculation for Array Item: 4------------------------
+
+
+Temporary Array Y: 
+2,2,1,2,1,1,1,1,2,1
+Temporary Array x - TOP: 
+2,2,1,2,1,1,1,1,2,1
+Temporary Array Y - TOP: 
+2,2,1,2,1,1,1,1,2,1
+
+Temporary Array x - TOP: 
+3,4,2,3,2
+Temporary Array Y - TOP: 
+3,4,2,3,2
+
+Temporary Array x - TOP: 
+5,7,2
+Temporary Array Y - TOP: 
+5,7,2
+
+Temporary Array x - TOP: 
+7,7
+Temporary Array Y - TOP: 
+7,7
+
+
+Final Match Percentage: 77
+
+
+
+--------------------Calculation for Array Item: 5------------------------
+
+
+Temporary Array Y: 
+3,3,1,1,2,1,1,1,1
+Temporary Array x - TOP: 
+3,3,1,1,2,1,1,1,1
+Temporary Array Y - TOP: 
+3,3,1,1,2,1,1,1,1
+
+Temporary Array x - TOP: 
+4,4,2,2,2
+Temporary Array Y - TOP: 
+4,4,2,2,2
+
+Temporary Array x - TOP: 
+6,6,2
+Temporary Array Y - TOP: 
+6,6,2
+
+Temporary Array x - TOP: 
+8,6
+Temporary Array Y - TOP: 
+8,6
+
+
+Final Match Percentage: 86
+
+
+
+--------------------Calculation for Array Item: 6------------------------
+
+
+Temporary Array Y: 
+2,1,3,1,2,1,1,2,1,1,1
+Temporary Array x - TOP: 
+2,1,3,1,2,1,1,2,1,1,1
+Temporary Array Y - TOP: 
+2,1,3,1,2,1,1,2,1,1,1
+
+Temporary Array x - TOP: 
+3,2,4,3,3,1
+Temporary Array Y - TOP: 
+3,2,4,3,3,1
+
+Temporary Array x - TOP: 
+4,5,7
+Temporary Array Y - TOP: 
+4,5,7
+
+Temporary Array x - TOP: 
+11,5
+Temporary Array Y - TOP: 
+11,5
+
+Temporary Array Y: 
+1,1
+Temporary Array Y: 
+5,1,1
+Temporary Array x - TOP: 
+6,1
+Temporary Array Y - TOP: 
+6,1
+
+
+Final Match Percentage: 61
+
+
+
+--------------------Calculation for Array Item: 7------------------------
+
+
+Temporary Array Y: 
+2,2,4,2,1,1,1,1,1,2
+Temporary Array x - TOP: 
+2,2,4,2,1,1,1,1,1,2
+Temporary Array Y - TOP: 
+2,2,4,2,1,1,1,1,1,2
+
+Temporary Array x - TOP: 
+4,3,5,3,2
+Temporary Array Y - TOP: 
+4,3,5,3,2
+
+Temporary Array x - TOP: 
+6,6,5
+Temporary Array Y - TOP: 
+6,6,5
+
+Temporary Array x - TOP: 
+11,6
+Temporary Array Y - TOP: 
+11,6
+
+Temporary Array Y: 
+1,1
+Temporary Array Y: 
+6,1,1
+Temporary Array x - TOP: 
+7,1
+Temporary Array Y - TOP: 
+7,1
+
+
+Final Match Percentage: 71
+
+
+
+--------------------Calculation for Array Item: 8------------------------
+
+
+Temporary Array Y: 
+3,1,3,1,2,1,1,2,1,1
+Temporary Array x - TOP: 
+3,1,3,1,2,1,1,2,1,1
+Temporary Array Y - TOP: 
+3,1,3,1,2,1,1,2,1,1
+
+Temporary Array x - TOP: 
+4,2,5,2,3
+Temporary Array Y - TOP: 
+4,2,5,2,3
+
+Temporary Array x - TOP: 
+7,4,5
+Temporary Array Y - TOP: 
+7,4,5
+
+Temporary Array x - TOP: 
+12,4
+Temporary Array Y - TOP: 
+12,4
+
+Temporary Array Y: 
+1,2
+Temporary Array Y: 
+4,2,1
+Temporary Array x - TOP: 
+5,2
+Temporary Array Y - TOP: 
+5,2
+
+
+Final Match Percentage: 52
+
+
+
+-----------------------------------------------------------------------
+
+
+Sorting of percentages to find out which individuals will be partners.
+
+Percentage array before sort: 
+96,97,69,76,77,86,61,71,52
+Percentage array after sort: 
+97,96,86,77,76,71,69,61,52
+
+Array arranged from Highest Percentages Partners: 
+Percentage: 97
+Male: Jack
+Female: Molly
+
+Array arranged from Highest Percentages Partners: 
+Percentage: 96
+Male: Jack
+Female: Jean
+
+Array arranged from Highest Percentages Partners: 
+Percentage: 86
+Male: Ted
+Female: Kate
+
+Array arranged from Highest Percentages Partners: 
+Percentage: 77
+Male: Ted
+Female: Molly
+
+Array arranged from Highest Percentages Partners: 
+Percentage: 76
+Male: Ted
+Female: Jean
+
+Array arranged from Highest Percentages Partners: 
+Percentage: 71
+Male: Tommy
+Female: Molly
+
+Array arranged from Highest Percentages Partners: 
+Percentage: 69
+Male: Jack
+Female: Kate
+
+Array arranged from Highest Percentages Partners: 
+Percentage: 61
+Male: Tommy
+Female: Jean
+
+Array arranged from Highest Percentages Partners: 
+Percentage: 52
+Male: Tommy
+Female: Kate
+
+----------------Final Partners----------------
+
+Pair: 1
+Percentage: 97
+Male: Jack
+Female: Molly
+
+Pair: 2
+Percentage: 86
+Male: Ted
+Female: Kate
+
+Pair: 3
+Percentage: 61
+Male: Tommy
+Female: Jean
