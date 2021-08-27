@@ -1,6 +1,6 @@
 {
   "publishConfig": {
-    "@preshen99:registry": "https://npm.pkg.github.com"
+    "@preshen99:registry": "https://registry.npmjs.org/"
   },
   "name": "@preshen99/assessment-derivco-pn",
   "version": "1.0.0",
@@ -23,6 +23,7 @@
   "dependencies": {
     "fs": "^0.0.1-security",
     "path": "^0.12.7",
-    "prompt-sync": "^4.2.0"
+    "prompt-sync": "^4.2.0",
+    "user": "^0.0.0"
   }
 }
