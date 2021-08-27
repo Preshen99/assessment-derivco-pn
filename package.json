@@ -7,7 +7,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "exit 0"
+    "test": "exit 0",
+    "start": "node ./app.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/Preshen99/assessment-derivco-pn/issues"
   },
-  "homepage": "https://github.com/Preshen99/assessment-derivco-pn#readme"
+  "homepage": "https://github.com/Preshen99/assessment-derivco-pn#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "prompt-sync": "^4.2.0"
+  }
 }
