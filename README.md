@@ -1,5 +1,34 @@
 # assessment-derivco-pn
 
+<h3>NPM Install</h3>
+
+<p>https://www.npmjs.com/package/assessment-derivco-pn</p>
+
+```
+npm i prompt-sync
+npm i path
+npm i fs
+npm i assessment-derivco-pn
+```
+
+<h3>Then...</h3>
+<p>In a javascript file... e.g. app.js</p>
+
+```
+const matchProgram = require("assessment-derivco-pn");
+
+matchProgram;
+```
+
+<p>In a terminal go to the directory of the javascript file</p>
+
+```
+cd Directory/app.js
+node .\app.js
+```
+
+<br>
+
 <h3>Git Install</h3>
 
 ```
@@ -18,24 +47,4 @@ npm i fs
 node ./app.js
 -------or-------
 npm start
-```
-
-<h3>NPM Install</h3>
-
-<p>https://www.npmjs.com/package/assessment-derivco-pn</p>
-
-```
-npm i prompt-sync
-npm i path
-npm i fs
-npm i assessment-derivco-pn
-```
-
-<h3>Then...</h3>
-<p>In a javascript file...</p>
-
-```
-import LogResults from './app.js'
-
-LogResults();
 ```
